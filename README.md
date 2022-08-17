@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Juliana Aelo! 💙</h1>
 
  - 🌱 Em transição de carreira para a área de tecnologia.
- - 📚 Estudando desenvolvimento web na Trybe, iniciei em 18/10/2021 e estou a cada dia mais encantada com todo aprendizado até aqui.
+ - 📚 Estudando desenvolvimento web e estou a cada dia mais encantada com todo aprendizado até aqui.
  - 😄 Tenho como principal objetivo para o ano de 2022, desenvolver minhas Hard Skills e Soft Skills para quando surgir um novo desafio profissional eu estar preparada para enfrentar.
  - 🌎 Pojuca/BA - Brasil.
  - 💬 Pergunte-me qualquer coisa, estou à disposição.
